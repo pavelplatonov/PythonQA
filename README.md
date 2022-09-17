@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/pavelplatonov" target="_blank">Pavel</a> </h1>
 <h3 align="center">Student QAForEveryone</h3>
-<h3 align="center">Teamlead Pirates group</h3>
+<h3 align="center">Teamlead PyRates group</h3>
 
 [![codewars](https://www.codewars.com/users/flouxe/badges/small)](https://www.codewars.com/users/flouxe)  
 
