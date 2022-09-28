@@ -7,7 +7,7 @@ error = "This is not Cube, Trio or Circle"
 if vote == "Cube":
     print(cube)
 elif vote == "Trio":  # треугольник не доделан и брошен на произвол
-    print(line)
+    print("треугольник не доделан и брошен на произвол")
 elif vote == "Circle":  # круг не доделан и брошен на произвол
     print(stena)
 else:

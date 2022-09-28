@@ -6,4 +6,3 @@ if password == password_second:
     print(message)
 else:
     print(message_error)
-# test
