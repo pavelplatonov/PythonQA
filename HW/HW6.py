@@ -6,3 +6,8 @@
 # 7.2. Найдите элемент с текстом "Lenin cat".
 # Чем больше разных XPATH и/или CSS-селекторов сможете подобрать, тем лучше
 # http://suninjuly.github.io/cats.html
+
+# .card-text.lenin-cat
+#
+# //*[contains(text()='Lenin cat)']
+# //p[contains(text()='Lenin cat)']
